@@ -13,6 +13,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
 http://tvn.x10.bz/xchannel/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Lokal", INDOSIAR (Live Bola)
+https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.X4maLALUrD3e.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="SCTV.MACAN" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV
@@ -43,17 +46,14 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Lokal",Trans 7
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
-http://rr.dens.tv/h/h11/index.m3u8
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-http://mantul.biz.id:8888/Arkan/54647/239
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="Lokal",Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-http://mantul.biz.id:8888/Arkan/54647/240
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -111,6 +111,112 @@ http://210.210.155.35/session/e0c19ce8-790c-11ec-a7a0-c81f66f89318/x6bnqe/s/s73/
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://rubbyguntara.github.io/src/img/rrinet.png",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
+
+<!-- DAERAH -->
+#EXTINF:-1 group-title="CHANNEL DAERAH",ADI TV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",arek TV
+http://wowza58.indostreamserver.com:1935/arektv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Banjar TV
+https://v2.siar.us/banjartv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Banten TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Banyumas TV
+https://v2.siar.us/bmstv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",BR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",DM TV
+https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",GPR TV
+https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Humabetang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",JawaPos TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",KSB TV
+https://bravo.kugo.id/ksb/udp.stream/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Lombok TV
+https://bravo.kugo.id/lomboktv/rtmp.stream/chunklist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Madu TV - Blitar
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",PAL TV
+https://v3.siar.us/paltv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Puja TV
+https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",RC TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Riau Raya TV
+https://bravo.kugo.id/riauraya/rtmp.stream/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Riau TV
+https://bravo.kugo.id/riautv/udp.stream/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",SalingSapa TV
+https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Sampit TV
+https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",Surabaya TV
+https://v3.siar.us/surabayatv/live/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",TA TV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",TVTPI
+http://103.30.246.47:1935/tvtpi/live/playlist.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",JAYA TV
+https://h1.intechmedia.net/intech/ch52.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/BETV-BENGKULU.jpg"group-title="CHANNEL DAERAH",BETV BENGKULU
+https://h1.intechmedia.net/intech/ch58.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",RA TV
+https://h1.intechmedia.net/intech/ch59.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",ATV
+https://h1.intechmedia.net/intech/ch80.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 group-title="CHANNEL DAERAH" tvg-logo="https://i.imgur.com/4P5UM89.png?v=1.0.0.1",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/JAKTV.jpg"group-title="CHANNEL DAERAH",JAKTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/BALI-TV.jpg"group-title="CHANNEL DAERAH",BALI TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/BANDUNG-TV.jpg"group-title="CHANNEL DAERAH",BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1  tvg-id="JITV.id" group-title="CHANNEL DAERAH" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
+https://h1.intechmedia.net/intech/ch65.m3u8
+http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
+#EXTINF:-1  tvg-id="TVKU.id" group-title="CHANNEL DAERAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1  tvg-id="BMSTV.id" group-title="CHANNEL DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1  tvg-id="CahayaBantenTV.id" group-title="CHANNEL DAERAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CTV_Banten_logo.png/revision/latest?cb=20180920052628",CTV BANTEN
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgrCRbft/desa-tv.png"group-title="CHANNEL DAERAH",DESA TV
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png"group-title="CHANNEL DAERAH",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/BANDUNG-TV.jpg"group-title="CHANNEL DAERAH",BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/TVKU-SEMARANG.jpg"group-title="CHANNEL DAERAH",TVKU SEMARANG
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/JTV-SURABAYA.jpg"group-title="CHANNEL DAERAH",JTV SURABAYA
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/BANTEN-TV.jpg"group-title="CHANNEL DAERAH",BANTEN TV
+http://103.23.201.170:1935/live/livestream/chunklist_w1898411809.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/MGS-TV.jpg"group-title="CHANNEL DAERAH",MGSTV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/12/LOMBOK-TV.jpg"group-title="CHANNEL DAERAH",LOMBOK TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/gk2M7WzF/Balikpapan-TV.png " group-title="CHANNEL DAERAH",BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXHQsD4/KAWANUA-TV.png" group-title="CHANNEL DAERAH",KAWANUA TV (Manado)
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/6qYMQHhm/Radar-Cirebon-TV.png " group-title="CHANNEL DAERAH",RADAR TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwQ2r3pv/RIAU-TV.png" group-title="CHANNEL DAERAH",RIAU TV
+http://122.248.43.138:1935/ch11/myStream/chunklist_w2044873838.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="CHANNEL DAERAH",SMTV (Sumedang)
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.erwintj.my.id/wp-content/uploads/2020/11/NUSANTARA-TV.jpg"group-title="CHANNEL DAERAH",NUSANTARA TV
+#https://v6.siar.us/nusantaratv/live/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 <! –– NEWS -->
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -565,6 +671,9 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="DiscoveryChannelSoutheastAsia.us" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/discoverychannel.png" group-title="Knowledge",Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8b518ca76ae985c61a9723de69ac1132.jpg" group-title="Knowledge",Discovery Science
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/295051.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1083,6 +1192,10 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 #EXTINF:0 tvg-id="ajwa.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title="Religi",Ajwa TV HD
 http://tvn.x10.bz/vidio/master-14.m3u8
 
+#EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bahjah_tv_id.png" group-title="Religi",Al-Bahjah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://h1.intechmedia.net/intech/ch64.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tawaf.png" group-title="Religi",Tawaf TV
@@ -1199,6 +1312,10 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
 https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+#EXTINF:-116 group-title="Religi",GBITV
+https://bravo.kugo.id/gbitv/rtmp.stream/chunklist.m3u8
+#EXTINF:-116 group-title="Religi",DHAMMA TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 <!--TVRI-->
 #EXTINF:-1 group-title="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI ACEH
@@ -1287,6 +1404,55 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
 
 #EXTINF:-1 group-title="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI PAPUA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+
+///// SINGAPURA /////
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
+#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://www.dropbox.com/s/ss1rfo93qsxtvy9/Mediacorp_Channel_5_2015.png?dl=1" group-title="SINGAPURA",Channel 5
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://www.dropbox.com/s/qrj77n00p2vt8or/cna2.png?dl=1" group-title="SINGAPURA",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
+#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.dropbox.com/s/ojr16he7gir5m4o/mediacorp-channel-8-logopedia-fandom-mediacorp-channel-8-png-220_220.png?dl=1" group-title="SINGAPURA",Channel 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+///// MALAYSIA /////
+
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="MALAYSIA",Okey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="MALAYSIA",RTM SUKAN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="MALAYSIA", 03
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="MALAYSIA", 01
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="MALAYSIA", 04
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="MALAYSIA", 05
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+
+/////PLUTO TV /////
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" tvg-url="" group-title="PlutoTv",Pluto TV The Addams Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=511&deviceId=5d81607ab737153ea3c1c80e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1811,6 +1977,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff0009
 #EXTINF:-1 tvg-id="PLUTOTVENVIVO.us" tvg-name="PLUTO.TV EN VIVO" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHfqOPcJ7PulwxLDzu1XhBJalePLqRJAVXA&usqp=CAU" tvg-url="" group-title="PlutoTv",PLUTO.TV EN VIVO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
 
+
+///// RADIO /////
+
+#EXTINF:-1 tvg-logo="http://tv.pake.my.id/radio.jpg" group-title="RADIO", Radio.Pake.My.Id
+http://chating.pake.my.id:8000/;
 #EXTINF:-1 tvg-logo="" group-title="RADIO", AKSI AM MEDAN
 http://live.radiobethany.com:8152/;
 #EXTINF:-1 tvg-logo="" group-title="RADIO", Alhikmah Banyuwangi
